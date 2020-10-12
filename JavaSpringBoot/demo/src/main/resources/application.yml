@@ -1,0 +1,7 @@
+app:
+  datasource:
+  jdbc-url: jdbc:postgresql://localhost:54332/demodb
+  #jdbcUrl: jdbc:postgresql://localhost:54332/demodb
+  username: postgres
+  password: password
+  pool-size: 30
